@@ -1,0 +1,11 @@
+D:\NUWM\C#\v7\lab 4\bin\Debug\netcoreapp3.1\lab 4.exe
+D:\NUWM\C#\v7\lab 4\bin\Debug\netcoreapp3.1\lab 4.deps.json
+D:\NUWM\C#\v7\lab 4\bin\Debug\netcoreapp3.1\lab 4.runtimeconfig.json
+D:\NUWM\C#\v7\lab 4\bin\Debug\netcoreapp3.1\lab 4.runtimeconfig.dev.json
+D:\NUWM\C#\v7\lab 4\bin\Debug\netcoreapp3.1\lab 4.dll
+D:\NUWM\C#\v7\lab 4\bin\Debug\netcoreapp3.1\lab 4.pdb
+D:\NUWM\C#\v7\lab 4\obj\Debug\netcoreapp3.1\lab 4.csprojAssemblyReference.cache
+D:\NUWM\C#\v7\lab 4\obj\Debug\netcoreapp3.1\lab 4.AssemblyInfoInputs.cache
+D:\NUWM\C#\v7\lab 4\obj\Debug\netcoreapp3.1\lab 4.AssemblyInfo.cs
+D:\NUWM\C#\v7\lab 4\obj\Debug\netcoreapp3.1\lab 4.dll
+D:\NUWM\C#\v7\lab 4\obj\Debug\netcoreapp3.1\lab 4.pdb
