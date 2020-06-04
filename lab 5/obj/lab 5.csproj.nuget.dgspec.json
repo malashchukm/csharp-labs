@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nick\\Desktop\\v7\\lab 5\\lab 5.csproj": {}
+    "C:\\Users\\Nick\\Desktop\\csharp-labs\\lab 5\\lab 5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nick\\Desktop\\v7\\lab 5\\lab 5.csproj": {
+    "C:\\Users\\Nick\\Desktop\\csharp-labs\\lab 5\\lab 5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nick\\Desktop\\v7\\lab 5\\lab 5.csproj",
+        "projectUniqueName": "C:\\Users\\Nick\\Desktop\\csharp-labs\\lab 5\\lab 5.csproj",
         "projectName": "lab 5",
-        "projectPath": "C:\\Users\\Nick\\Desktop\\v7\\lab 5\\lab 5.csproj",
+        "projectPath": "C:\\Users\\Nick\\Desktop\\csharp-labs\\lab 5\\lab 5.csproj",
         "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nick\\Desktop\\v7\\lab 5\\obj\\",
+        "outputPath": "C:\\Users\\Nick\\Desktop\\csharp-labs\\lab 5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nick\\AppData\\Roaming\\NuGet\\NuGet.Config",

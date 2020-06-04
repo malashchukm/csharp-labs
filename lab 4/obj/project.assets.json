@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\taras\\.nuget\\packages\\": {}
+    "C:\\Users\\Nick\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NUWM\\C#\\v7\\lab 4\\lab 4.csproj",
+      "projectUniqueName": "C:\\Users\\Nick\\Desktop\\csharp-labs\\lab 4\\lab 4.csproj",
       "projectName": "lab 4",
-      "projectPath": "D:\\NUWM\\C#\\v7\\lab 4\\lab 4.csproj",
-      "packagesPath": "C:\\Users\\taras\\.nuget\\packages\\",
-      "outputPath": "D:\\NUWM\\C#\\v7\\lab 4\\obj\\",
+      "projectPath": "C:\\Users\\Nick\\Desktop\\csharp-labs\\lab 4\\lab 4.csproj",
+      "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nick\\Desktop\\csharp-labs\\lab 4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\taras\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nick\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,12 +53,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -9,3 +9,16 @@ D:\NUWM\C#\v7\lab 3\obj\Debug\netcoreapp3.1\lab 3.AssemblyInfoInputs.cache
 D:\NUWM\C#\v7\lab 3\obj\Debug\netcoreapp3.1\lab 3.AssemblyInfo.cs
 D:\NUWM\C#\v7\lab 3\obj\Debug\netcoreapp3.1\lab 3.dll
 D:\NUWM\C#\v7\lab 3\obj\Debug\netcoreapp3.1\lab 3.pdb
+C:\Users\Nick\Desktop\csharp-labs\lab 3\bin\Debug\netcoreapp3.1\lab 3.exe
+C:\Users\Nick\Desktop\csharp-labs\lab 3\bin\Debug\netcoreapp3.1\lab 3.deps.json
+C:\Users\Nick\Desktop\csharp-labs\lab 3\bin\Debug\netcoreapp3.1\lab 3.runtimeconfig.json
+C:\Users\Nick\Desktop\csharp-labs\lab 3\bin\Debug\netcoreapp3.1\lab 3.runtimeconfig.dev.json
+C:\Users\Nick\Desktop\csharp-labs\lab 3\bin\Debug\netcoreapp3.1\lab 3.dll
+C:\Users\Nick\Desktop\csharp-labs\lab 3\bin\Debug\netcoreapp3.1\lab 3.pdb
+C:\Users\Nick\Desktop\csharp-labs\lab 3\obj\Debug\netcoreapp3.1\lab 3.csprojAssemblyReference.cache
+C:\Users\Nick\Desktop\csharp-labs\lab 3\obj\Debug\netcoreapp3.1\lab 3.AssemblyInfoInputs.cache
+C:\Users\Nick\Desktop\csharp-labs\lab 3\obj\Debug\netcoreapp3.1\lab 3.AssemblyInfo.cs
+C:\Users\Nick\Desktop\csharp-labs\lab 3\obj\Debug\netcoreapp3.1\lab 3.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\csharp-labs\lab 3\obj\Debug\netcoreapp3.1\lab 3.dll
+C:\Users\Nick\Desktop\csharp-labs\lab 3\obj\Debug\netcoreapp3.1\lab 3.pdb
+C:\Users\Nick\Desktop\csharp-labs\lab 3\obj\Debug\netcoreapp3.1\lab 3.genruntimeconfig.cache
